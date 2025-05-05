@@ -40,7 +40,7 @@ A continuación, algunos gráficos generados durante el análisis:
 
 ### 🔹 Facturación por Tienda
 
-![Gráfico de Facturación](facturacion.png)
+![Gráfico de Facturación](facturacion.PNG)
 
 ### 🔹 Calificación Promedio de Clientes
 
