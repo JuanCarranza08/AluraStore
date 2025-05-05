@@ -40,15 +40,15 @@ A continuación, algunos gráficos generados durante el análisis:
 
 ### 🔹 Facturación por Tienda
 
-![Gráfico de Facturación](images/facturacion.png)
+![Gráfico de Facturación](facturacion.png)
 
 ### 🔹 Calificación Promedio de Clientes
 
-![Gráfico de Calificaciones](images/calificaciones.png)
+![Gráfico de Calificaciones](calificaciones.png)
 
 ### 🔹 Costos Promedio de Envío
 
-![Gráfico de Costos de Envío](images/envios.png)
+![Gráfico de Costos de Envío](envios.png)
 
 ---
 
