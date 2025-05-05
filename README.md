@@ -66,9 +66,10 @@ Tras analizar los datos, **Tienda 4** fue identificada como la **menos eficiente
 
 ## 🛠️ Cómo Ejecutar
 
-1. Abre el archivo `alura_store_analysis.ipynb` en Google Colab.
-2. Asegúrate de tener instaladas las bibliotecas `pandas`, `matplotlib`, y `seaborn`.
-3. Ejecuta todas las celdas para ver el análisis completo.
+1. Descarga el archivo `AluraStoreLatam.ipynb`.
+2. Abre el archivo `AluraStoreLatam.ipynb` en Google Colab.
+3. Asegúrate de tener instaladas las bibliotecas `pandas`, `matplotlib`, y `seaborn`.
+4. Ejecuta todas las celdas para ver el análisis completo.
 
 ---
 
