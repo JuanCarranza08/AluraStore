@@ -44,11 +44,11 @@ A continuación, algunos gráficos generados durante el análisis:
 
 ### 🔹 Calificación Promedio de Clientes
 
-![Gráfico de Calificaciones](calificaciones.png)
+![Gráfico de Calificaciones](calificaciones.PNG)
 
 ### 🔹 Costos Promedio de Envío
 
-![Gráfico de Costos de Envío](envios.png)
+![Gráfico de Costos de Envío](envios.PNG)
 
 ---
 
