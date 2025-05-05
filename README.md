@@ -74,5 +74,5 @@ Tras analizar los datos, **Tienda 4** fue identificada como la **menos eficiente
 
 ## 👨‍💻 Autor
 
-**[Tu Nombre Aquí]**  
+**[Juan Carranza]**  
 Estudiante de análisis de datos, entusiasta del aprendizaje automatizado y la inteligencia empresarial.
